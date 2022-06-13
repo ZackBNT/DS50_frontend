@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,UACI,+BACJ,CACA,WACI,6BACJ","file":"main.98c92321.chunk.css","sourcesContent":[".fontBase{\r\n    font-family: 'Oswald', sans-serif;\r\n}\r\n.fontTitle{\r\n    font-family: 'Lobster', cursive;\r\n}"]}

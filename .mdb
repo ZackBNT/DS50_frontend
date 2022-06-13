@@ -1,0 +1,10 @@
+{
+  "projectName": "mdb5-free-react",
+  "meta": {
+    "starter": "mdb5-free-react",
+    "type": "frontend"
+  },
+  "hash": "b038a20d",
+  "domain": "ds50-bookstore.mdbgo.io",
+  "packageManager": "npm"
+}
